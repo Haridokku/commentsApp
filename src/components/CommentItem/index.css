@@ -1,0 +1,86 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+.initial-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 16px;
+  margin-top: 18px;
+  margin-right: 8px;
+  flex-shrink: 0;
+}
+.list-item {
+  margin-top: 10px;
+  list-style-type: none;
+}
+.comment-header {
+  display: flex;
+}
+.name {
+  color: #1e293b;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.time {
+  color: #94a3b8;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.comment {
+  color: #334155;
+  font-size: 18px;
+  font-family: 'Roboto';
+  margin-left: 15px;
+}
+.comment-footer {
+  display: flex;
+}
+.img {
+  width: 25px;
+}
+.noLike {
+  color: #475569;
+  font-size: 18px;
+  font-family: 'Roboto';
+  margin-left: 15px;
+}
+.like {
+  color: #0b69ff;
+  font-size: 18px;
+  font-family: 'Roboto';
+  margin-left: 15px;
+}
+.delete-button {
+  width: 25px;
+}
+.buttton {
+  border: 0px;
+}
